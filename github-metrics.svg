@@ -1656,12 +1656,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Blade</span>
-                            <div class="bar" style="width: 61.49715453086239%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 61.82339449541284%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">77%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Hack</span>
-                            <div class="bar" style="width: 18.502845469137604%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 18.176605504587155%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">23%</span>
                         </div>
                     </div>
@@ -4179,7 +4179,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17/10/2021, 20:13 (timezone Asia/Jakarta) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 17/10/2021, 21:07 (timezone Asia/Jakarta) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
