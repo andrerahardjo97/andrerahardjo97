@@ -6,5 +6,5 @@
 
 ![Andre's Github stats](https://github-readme-stats.vercel.app/api?username=andrerahardjo97&count_private=true&show_icons=true)
 
-![Profile views](https://gpvc.arturio.dev/LiuAndre)
+![](https://komarev.com/ghpvc/?username=andrerahardjo97)
 </div>
